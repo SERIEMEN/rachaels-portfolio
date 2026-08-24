@@ -9,6 +9,18 @@
 -->
 # Hi there, I'm Rachael! 👋
 
+## Tools I work with
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Google sheets
+
+## Currently Learning
+- Advanced SQL
+- Python for Data Science
+
+
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
@@ -48,7 +60,7 @@ I'm a passionate **Data Analyst|Data Scientist and Machine learning** with exper
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- [Linkedin](www.linkedin.com/in/rachael-orukpe-596a57292)
 - **[Twitter]**(your_twitter_profile_link)
 
 
