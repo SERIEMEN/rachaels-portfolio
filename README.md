@@ -4,9 +4,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
 # Hi there, I'm Rachael! 👋
 
 ## Tools I work with
@@ -20,12 +18,11 @@
 - Advanced SQL
 - Python for Data Science
 
-
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **Data Analyst|Data Scientist and Machine learning** with experience in **[Excel, Power BI and SQLtechnologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Data Analyst|Data Scientist and Machine learning** with experience in **[Excel, Power BI and SQL]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
@@ -33,11 +30,11 @@ I'm a passionate **Data Analyst|Data Scientist and Machine learning** with exper
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
-## My Skills 🧠
+## 🧠 My Skills 
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
