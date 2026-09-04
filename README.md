@@ -42,13 +42,13 @@ I'm a passionate **Data Analyst|Data Scientist and Machine learning** with exper
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Financial Statement](https://github.com/SERIEMEN/financial-statement-analysis)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Bank Analysis](https://github.com/SERIEMEN/bank-analysis-dashboard)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
